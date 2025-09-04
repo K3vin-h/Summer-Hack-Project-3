@@ -1,0 +1,22 @@
+2025-09-04 19:48:57 - info: [EVENT] Loaded client/guildCreate.js
+2025-09-04 19:48:58 - info: [EVENT] Loaded client/guildDelete.js
+2025-09-04 19:48:58 - info: [EVENT] Loaded client/interactionCreate.js
+2025-09-04 19:48:58 - info: [EVENT] Loaded client/ready.js
+2025-09-04 19:48:58 - info: [EVENT] Loaded logger/debug.js
+2025-09-04 19:48:58 - info: [EVENT] Loaded logger/error.js
+2025-09-04 19:48:59 - info: [EVENT] Loaded logger/warn.js
+2025-09-04 19:48:59 - info: Loaded MongoDB event: cleanup.js
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] create has been launched.
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] delete has been launched.
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] gagsettings has been launched.
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] reroll has been launched.
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] set-giveaway-log has been launched.
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] view-settings has been launched.
+2025-09-04 19:48:59 - info: [COMMAND MANAGER] Refreshing slash commands.
+2025-09-04 19:49:01 - info: [COMMAND MANAGER] Refreshed slash commands. 
+2025-09-04 19:49:01 - info: Connected to MongoDB
+2025-09-04 19:49:02 - info: Created TTL index for giveaways
+2025-09-04 19:49:02 - info: [STATUS MANAGER] Winza is online.
+2025-09-04 19:49:02 - info: Website running with: Winza#1745!
+2025-09-04 19:50:00 - info: [GROWAGARDEN] Scheduled stock update in 5 seconds...
+2025-09-04 19:50:05 - info: [GROWAGARDEN] Stock update sent.
